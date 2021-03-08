@@ -1,0 +1,6 @@
+host=45.76.181.246
+port=444
+pudp=7300
+user=bestvpnssh-zai49cm
+pass=123q
+sni=turn.teams.microsoft.com
